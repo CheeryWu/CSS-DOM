@@ -8,5 +8,6 @@
 /*将子元素的(0,0)坐标固定在slideshow div的左上角*/
 #preview {
     height: 200px;
+    position: absolute;
 }
 /*对img元素设置高度，可以让img元素等比例缩小*/
