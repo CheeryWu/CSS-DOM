@@ -1,0 +1,11 @@
+#slideshow {
+    width: 200px;
+    height: 200px;
+    position: relative;
+    overflow: hidden;
+}
+/*设置position为relative很重要，因为可以通过使用relative，*/
+/*将子元素的(0,0)坐标固定在slideshow div的左上角*/
+#preview {
+    height: 200px;
+}
