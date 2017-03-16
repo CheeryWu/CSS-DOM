@@ -1,5 +1,5 @@
 /**
- * Created by 吴晨 on 2017/3/16.
+ * Created by Christy on 2017/3/16.
  */
 function positionMessage() {
   if (!document.getElementById) return false;
